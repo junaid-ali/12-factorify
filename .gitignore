@@ -1,0 +1,2 @@
+# Ignore all .lock files, introduced if there mongod.lock file is present
+*.lock
